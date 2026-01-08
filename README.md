@@ -1,7 +1,3 @@
-# This is a heading
+# Default demo app
 
-This is some information 
-
-`This is a code snippet`
-
-$a^2 + b^2 = c^2$
+This is a default flutter demo app
